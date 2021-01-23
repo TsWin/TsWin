@@ -1,2 +1,6 @@
-![TsWin's github stats](https://github-readme-stats.vercel.app/api?username=TsWin&show_icons=true&theme=gruvbox)
-[![Mes Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TsWin)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/TsWin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TsWin&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/TsWin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsWin&theme=gruvbox" />
+</a>
