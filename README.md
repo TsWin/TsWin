@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **everything, I'm interested**
 
-- 📫 How to reach me **me@timcreate.me**
+- 📫 How to reach me **me@timcreated.me**
 
 - 📄 Know about my experiences [https://timcreated.me](https://timcreated.me)
 
